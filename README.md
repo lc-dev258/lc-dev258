@@ -5,4 +5,4 @@
 - 😄 Pronouns: he
 - ⚡ Fun fact: passionate about computing, and I'm studying about it
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-dev258)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-dev258)](https://github.com/lc-dev258/github-readme-stats)
