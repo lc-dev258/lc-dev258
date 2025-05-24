@@ -6,3 +6,4 @@
 - ⚡ Fun fact: passionate about computing, and I'm studying about it
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas)](https://github.com/Lucas/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&theme=dark)
